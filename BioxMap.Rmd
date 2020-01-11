@@ -73,7 +73,7 @@ This field is almost the same with statistics but using biological data for anal
 
 In general biological experiment, the data that were analyzed is usually more easy to interpret than what it is in Computational Biology. The Data can be from **agricultural** or **fisheries** related experiment to analyze the performance of specific treatment for improving crops/fisheries/livestock production. The data may include quality of farm product along with its measured enviromental data such as humidity, soil nutrient content, watering frequency, etc.
 
-Data scientist play important role in analyzing these data through machine learning and various methods to provide better decision making. The measured characteristic (phenotype) data can also be combined with genotype data (more specific biological data such as DNA sequence and gene expression) that may improve the model performance. An article from BAYER is a great coverage about how [Data Science may improve crop production](https://www.cropscience.bayer.com/en/stories/2019/molecular-math-data-science-accelerate-innovation-plant-breeding).
+Data scientist play important role in analyzing these data through machine learning and various methods to provide better decision making. The measured characteristic (phenotype) data can also be combined with genotype data (more specific biological data such as DNA sequence and gene expression) that may improve the model performance. An article from BAYER is a great coverage about how Data Science may improve crop production[^1].
 
 ## Computational Biology
 
@@ -81,7 +81,7 @@ Computational Biology encompasses **all biological areas that involve computatio
 
 ### Computational Anatomy 
 
-Computational Anatomy is the use of geometric- and statistics-based mathematical techniques to analyze and understand the variation in **human form and structure**[^1]. This sub-topic highly uses the data derived from sensor imaging modalities such as Magnetic Resonance Imaging (**MRI**). Some focuses on this topic include:
+Computational Anatomy is the use of geometric- and statistics-based mathematical techniques to analyze and understand the variation in **human form and structure**[^2]. This sub-topic highly uses the data derived from sensor imaging modalities such as Magnetic Resonance Imaging (**MRI**). Some focuses on this topic include:
 
 * identify differences in brain shape and connectivity that differentiate patient with a mental disorder or who is facing neuro-developmental diseases (brain development impairments),
 
@@ -107,7 +107,7 @@ Below are some further readings regarding this topic:
 
 ### Computational Neuroscience 
 
-Computational Neuroscience is the field of study in which mathematical tools and theories are used to investigate brain function in order to understand how the **nervous system processes information** [^2]. 
+Computational Neuroscience is the field of study in which mathematical tools and theories are used to investigate brain function in order to understand how the **nervous system processes information** [^3]. 
 
 <br>
 <center>
@@ -252,5 +252,6 @@ You can read more about the third application in evolutionary analysis in our fi
 
 Those are the topics that summarize most of the discussed topics today about Data Science x Biology. Later, this map will be continue to be updated for the latest news an development in Data Science x Biology. Stay tune and happy exploring!
 
-[^1]: https://www.autodeskresearch.com/projects/computational-anatomy
-[^2]: https://www.nature.com/subjects/computational-neuroscience
+[^1]: Bayer. *How Math and Data Science Accelerate Innovation While Conserving Resources* [Online] https://www.cropscience.bayer.com/en/stories/2019/molecular-math-data-science-accelerate-innovation-plant-breeding, accessed 10th December 2019
+[^2]: Autodesk Research. *Computational Anatomy and Biomechanics* [Online] https://www.autodeskresearch.com/projects/computational-anatomy, accessed 10th December 2019
+[^3]: Nature Research. *Computational Neuroscience* [Online] https://www.nature.com/subjects/computational-neuroscience, accessed 10th December 2019
