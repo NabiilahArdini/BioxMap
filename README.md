@@ -191,5 +191,7 @@ Those are the topics that summarize most of the discussed topics today about Dat
 # References 
 
 [^1]: Bayer. *How Math and Data Science Accelerate Innovation While Conserving Resources* [Online] https://www.cropscience.bayer.com/en/stories/2019/molecular-math-data-science-accelerate-innovation-plant-breeding, accessed 10th December 2019
+
 [^2]: Autodesk Research. *Computational Anatomy and Biomechanics* [Online] https://www.autodeskresearch.com/projects/computational-anatomy, accessed 10th December 2019
+
 [^3]: Nature Research. *Computational Neuroscience* [Online] https://www.nature.com/subjects/computational-neuroscience, accessed 10th December 2019
