@@ -4,8 +4,6 @@ is Mind Map for the specialization of **Data Science x Biology**, to help you (a
 
 The map were made and published on **16 Dec 2019**, and summarize most of the discussed topics about Data Science x Biology that day. Later, this map will continue to be updated for the latest news an development in Data Science x Biology. Stay tune and happy exploring!
 
-***
-
 ## Explore Further but Don't Get Lost!
 
 From my previous article, ["Bioinformatics: Decoding Nature's Code of Life"](https://algotech.netlify.com/blog/bio-intro/), we have discussed briefly about **Bioinformatics**, the buzz word when we talk about **Data Science x Biology**. We have learned the basic knowledge and try some practical case. Even so, there is so much more to explore!
@@ -16,17 +14,15 @@ To help you explore this wide field of study, I have prepared a map that describ
 
 Introducing **BioxMap**! A map on various fields related to the integration of Data Science with Biology.
 
-<br>
 ![](image/Bioxmap.png)
-<br>
 
 There are 2 main topics when we talk about Data Science x Biology:
 
-> **Biostatistics** focuses on the preparation and research design of an experiment 
+**Biostatistics** focuses on the preparation and research design of an experiment 
 
-> **Computational Biology** encompasses all biological areas that involve computation, such as modeling of an ecosystem, population dynamics, etc. 
+**Computational Biology** encompasses all biological areas that involve computation, such as modeling of an ecosystem, population dynamics, etc. 
 
-**Bioinformatics** is actually one sub-topic inside computational biology. 
+*Bioinformatics* is actually one sub-topic inside computational biology. 
 
 Computational Biology can be divided into several sub-topics based on research interest. Even so, those topics can intertwine in practice, mainly because of the complexity of biological systems and phenomena.
 
@@ -38,9 +34,7 @@ Biostatistics is the development and application of statistical methods to a wid
 
 This field is almost the same with statistics but using biological data for analysis. Biostatistics acts as **a solid foundation** to build a biological research whereas we collect reliable data.
 
-<br>
 ![](image/plantexperiment.jpg)
-<br>
 
 In general biological experiment, the data that were analyzed is usually more easy to interpret than what it is in Computational Biology. The Data can be from **agricultural** or **fisheries** related experiment to analyze the performance of specific treatment for improving crops/fisheries/livestock production. The data may include quality of farm product along with its measured enviromental data such as humidity, soil nutrient content, watering frequency, etc.
 
@@ -62,9 +56,7 @@ Computational Anatomy is the use of geometric- and statistics-based mathematical
 
 * research on the muscle architecture to provide a better understanding of muscular pain and better surgery practices, etc.
 
-<br>
-![](image/anatomy1.png)
-<br>
+![](image/anatomy1.PNG)
 
 Below are some further readings regarding this topic:
 
@@ -78,9 +70,7 @@ Below are some further readings regarding this topic:
 
 Computational Neuroscience is the field of study in which mathematical tools and theories are used to investigate brain function in order to understand how the **nervous system processes information** [^3]. 
 
-<br>
 ![](image/brain.png)
-<br>
 
 Discussion around this topic is still highly focused on the research rather than for practical application. Scientists are still developing a way to tackle the enormous data they acquire from this topic. Even so, this topic is still very interesting because it is what inspires the development of Neural Networks. Many of the algorithms and models of Neural Networks/Computer Visions are derived from the theoretical understanding of neuroscience. Below are some good readings if you want to know more about this topic:
 
@@ -124,10 +114,9 @@ Below is further reading about this topic and an interesting video about the fut
 
 [The Growing Role of Data Scientists and Analysts in Gene Therapy](https://towardsdatascience.com/the-growing-role-of-data-scientists-and-analysts-in-gene-therapy-9c5a04b63be4)
 
-<br>
 [**Genetic Engineering Will Change Everything Forever - CRISPR**](https://www.youtube.com/watch?v=jAhjPd4uNFY)
+
 ![](image/gening.jpg)
-<br>
 
 #### **Genomic Selection** 
 
@@ -143,24 +132,19 @@ Below are some further readings and a video about this topic:
 
 [Genomic Prediction of Breeding Values Using a Subset of SNPs Identified by Three Machine Learning Methods](https://www.frontiersin.org/articles/10.3389/fgene.2018.00237/full)
 
-<br>
 [**Forest Genetics - Genomic Selection**](https://www.youtube.com/watch?v=X7DADlgWdG8)
+
 ![](image/forestgenetics.jpg)
-<br>
 
 #### **Protein Structure Prediction**
 
 Protein Structure Prediction is the *prediction of a Protein 3D structure* which is highly important in **drug design** and the design of **novel enzymes**. This case is highly used in drug design where the protein we want to predict is a protein that responsible for diseases, for example a protein from Influenza or HIV virus. This prediction is important because when the protein structure is known, one can predict its function and which drugs can efficiently bind to 'knock-off' the protein. 
 
-<br>
 ![](image/HIVcapsid.png)
-<br>
 
 Every two years since 1994, the performance of current methods of protein structure perediction is assessed in the **CASP** (Critical Assessment of protein Structure Prediction), a community-wide, worldwide experiment for protein structure prediction. In December 2018, CASP13 made headlines when it was won by **AlphaFold**, an **artificial intelligence program** created by **DeepMind**. Below is the animation of the protein predicted.
 
-<br>
 ![](image/alphafold.gif)
-<br>
 
 Below is the link for further readings:
 
@@ -180,10 +164,9 @@ Below are further readings and an interesting videos about this topic:
 
 [Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2](https://www.nature.com/articles/s41587-019-0209-9)
 
-<br>
 [**How Bacteria Rule Over Your Body - The Microbiome**](https://www.youtube.com/watch?v=VzPD009qTN4)
+
 ![](image/microbiome.jpg)
-<br>
 
 #### **Evolutionary Analysis**
 
@@ -195,9 +178,7 @@ Evolutionary Analysis is the study of the *evolutionary history and relationship
 
 * narrow potential organism with specific traits based on the similarity of DNA with known species, etc.
 
-<br>
 ![](image/phylogeo.jpg)
-<br>
 
 You can read more about the third application in evolutionary analysis in our first article about [Bioinformatics](https://algotech.netlify.com/blog/bio-intro/). Meanwhile, further readings about this topic are below:
 
@@ -206,6 +187,8 @@ You can read more about the third application in evolutionary analysis in our fi
 [Molecular Phylogenetics using Bio.Phylo](https://towardsdatascience.com/molecular-phylogenetics-using-bio-phylo-57ce27492ee9)
 
 Those are the topics that summarize most of the discussed topics today about Data Science x Biology. Later, this map will be continue to be updated for the latest news an development in Data Science x Biology. Stay tune and happy exploring!
+
+# References 
 
 [^1]: Bayer. *How Math and Data Science Accelerate Innovation While Conserving Resources* [Online] https://www.cropscience.bayer.com/en/stories/2019/molecular-math-data-science-accelerate-innovation-plant-breeding, accessed 10th December 2019
 [^2]: Autodesk Research. *Computational Anatomy and Biomechanics* [Online] https://www.autodeskresearch.com/projects/computational-anatomy, accessed 10th December 2019
