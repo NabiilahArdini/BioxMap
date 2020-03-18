@@ -22,9 +22,7 @@ There are 2 main topics when we talk about Data Science x Biology:
 
 **Computational Biology** encompasses all biological areas that involve computation, such as modeling of an ecosystem, population dynamics, etc. 
 
-*Bioinformatics* is actually one sub-topic inside computational biology. 
-
-Computational Biology can be divided into several sub-topics based on research interest. Even so, those topics can intertwine in practice, mainly because of the complexity of biological systems and phenomena.
+Computational Biology can be divided into several sub-topics based on research interest (marked in blue). Even so, those topics can intertwine in practice, mainly because of the complexity of biological systems and phenomena. *Bioinformatics* is actually one sub-topic inside computational biology. I have diveded its branches for more in-depth look into bioinformatics sub-topic and application (for I am more familiar with the topic).
 
 Below are the more detailed descriptions of each topic and what's inside.
 
